@@ -23,3 +23,7 @@ h1{
     width: 1000px;
 }
 
+p{
+    text-indent: 10px;
+    text-align: justify;
+}
