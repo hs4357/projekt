@@ -3,6 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     width: 90%;
+    margin: auto;
 }
 
 a{
@@ -20,6 +21,19 @@ a:hover{
 h1{
     text-align: center;
     text-decoration: darkblue;
-    width: 1000px;
+    padding: 0px, 25px;
+    margin: 15px ;
+    font-variant: small-caps;
+    color: azure;
+    background-color: rgba(5, 34, 58, 0.822);
+}
+div{
+    background-size: cover;
+    color: azure;
+    background-color: rgba(5, 34, 58, 0.822);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-variant: initial;
+    margin: auto;
 }
 
