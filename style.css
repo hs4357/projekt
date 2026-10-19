@@ -37,3 +37,7 @@ div{
     margin: auto;
 }
 
+p{
+    text-indent: 10px;
+    text-align: justify;
+}
