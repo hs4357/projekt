@@ -1,4 +1,25 @@
 body{
     background-image: url(marianna_25-jeans-9578775.jpg);
-    
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
 }
+
+a{
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: bold;
+    color: blue;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    text-decoration: darkblue;
+    width: 1000px;
+}
+
